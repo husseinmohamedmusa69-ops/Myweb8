@@ -1,6 +1,6 @@
 {
   "name": "محراب",
-  "short_name": "نِعمَ العَيْش عَيشُ الآخرة",
+  "short_name": "محراب",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
